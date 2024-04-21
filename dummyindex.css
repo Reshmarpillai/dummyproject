@@ -1,0 +1,9 @@
+body {
+  margin: auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  background-color: bisque;
+  color: rgb(191, 15, 100);
+}
