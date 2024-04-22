@@ -12,3 +12,18 @@ h2 {
   background-color: blanchedalmond;
   color: brown;
 }
+.reshma {
+  background-color: chartreuse;
+  height: 100px;
+  width: 500px;
+}
+.rahul {
+  background-color: rgb(47, 0, 255);
+  height: 100px;
+  width: 500px;
+}
+
+.parent {
+  width: 500px;
+  display: flex;
+}
